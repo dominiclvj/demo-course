@@ -12,13 +12,13 @@
       "exercises": [
         {
           "name": "Hello World",
-          "dir": "HelloWorld",
+          "dir": "Hello World",
           "initialFiles": ["main.py"],
           "tests": [
             {
               "test": "test_hello_world",
-              "name": "Print Hello World",
-              "description": "Print the text hello world to the console"
+              "name": "Print 'Hello World!'",
+              "description": "Use the print() function to output 'Hello World!' to the console"
             }
           ],
           "scripts": [
@@ -29,10 +29,27 @@
           ]
         },
         {
-          "name": "Next steps",
-          "dir": "Next steps",
-          "run": "python main.py",
-          "initialFiles": ["main.py", "modules/greet.py"],
+          "name": "Comments",
+          "dir": "Comments",
+          "initialFiles": ["main.py"],
+          "tests": [
+            {
+              "test": "test_comment",
+              "name": "Comment out the print statement",
+              "description": "Use a comment to prevent the print() function from writing 'Hello World!' to the console"
+            }
+          ],
+          "scripts": [
+            {
+              "language": "python",
+              "script": "main.py"
+            }
+          ]
+        }
+        {
+          "name": "Variables",
+          "dir": "Variables",
+          "initialFiles": ["main.py"],
           "tests": [
             {
               "test": "test_greet",
