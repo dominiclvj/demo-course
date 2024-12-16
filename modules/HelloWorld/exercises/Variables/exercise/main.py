@@ -1,4 +1,4 @@
-# The lesson variable below contains the first subject we will be studying
+# The lesson variable contains the first subject we will be studying
 lesson = "Mathematics"
 
 # Print out morning class

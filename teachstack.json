@@ -52,9 +52,9 @@
           "initialFiles": ["main.py"],
           "tests": [
             {
-              "test": "test_greet",
-              "name": "Print Hello {name}",
-              "description": "Print Hello {name}, where name is the value passed into the greet function"
+              "test": "test_variables",
+              "name": "Assign subjects to afternoon and evening classes",
+              "description": "Assign the lesson variable to represent different subjects for the afternoon and evening classes"
             }
           ],
           "scripts": [
