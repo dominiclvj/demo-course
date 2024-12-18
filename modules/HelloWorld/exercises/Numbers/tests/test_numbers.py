@@ -1,4 +1,4 @@
-import datetime
+from datetime import datetime
 
 def test_integers():
     """
@@ -7,9 +7,9 @@ def test_integers():
     from ..exercise import main
     
     actual_year = datetime.now().year
-    assert actual_year == current_year
-    assert hours_in_a_day == 24
-    assert days_in_a_week == 7
+    assert actual_year == main.current_year
+    assert main.hours_in_a_day == 24
+    assert main.days_in_a_week == 7
 
 def test_floats():
     """
@@ -17,8 +17,8 @@ def test_floats():
     """
     from ..exercise import main
 
-    assert pi_to_three_places == 3.142
-    assert chance_of_heads_in_coin_flip == 0.5
+    assert main.pi_to_three_places == 3.142
+    assert main.chance_of_heads_in_coin_flip == 0.5
 
 def test_print_year(capsys):
     """
