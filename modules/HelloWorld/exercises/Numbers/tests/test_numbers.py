@@ -18,7 +18,7 @@ def test_floats():
     from ..exercise import main
 
     assert pi_to_three_places == 3.142
-    assert chance_of_heads_in_coin_flip = 0.5
+    assert chance_of_heads_in_coin_flip == 0.5
 
 def test_print_year(capsys):
     """
