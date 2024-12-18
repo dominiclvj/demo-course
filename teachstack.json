@@ -63,6 +63,52 @@
               "script": "main.py"
             }
           ]
+        },
+        {
+          "name": "Errors",
+          "dir": "Errors",
+          "initialFiles": ["main.py"],
+          "tests": [
+            {
+              "test": "test_errors",
+              "name": "Debug the code and print the strings to conole",
+              "description": "Fix the code to stop the NameError and SyntaxError from occuring"
+            }
+          ],
+          "scripts": [
+            {
+              "language": "python",
+              "script": "main.py"
+            }
+          ]
+        },
+        {
+          "name": "Numbers",
+          "dir": "Numbers",
+          "initialFiles": ["main.py"],
+          "tests": [
+            {
+              "test": "test_integers",
+              "name": "Assign the correct integers to the variables",
+              "description": "Assign the current_year, hours_in_a_day and days_in_a_week variables with the appropriate integers."
+            },
+            {
+              "test": "test_floats",
+              "name": "Assign the correct floats to the variables",
+              "description": "Assign the pi_to_three_places and probability_of_heads_in_coin_flip variables with the correct floats"
+            },
+            {
+              "test": "test_print_year",
+              "name": "Print the current_year variable",
+              "description": "Use the print function to output the current year to the console"
+            }
+          ],
+          "scripts": [
+            {
+              "language": "python",
+              "script": "main.py"
+            }
+          ]
         }
       ]
     }
