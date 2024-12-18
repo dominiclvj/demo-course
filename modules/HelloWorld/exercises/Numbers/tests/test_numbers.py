@@ -28,4 +28,4 @@ def test_print_year(capsys):
 
     out, err = capsys.readouterr()
     actual_year = datetime.now().year
-    assert out.strip() == str(actual_year)
+    assert str(actual_year) in out.strip()

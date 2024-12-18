@@ -1,3 +1,6 @@
+import os
+import pathlib
+
 def test_errors():
     """
     Test that all errors in the code are resolved and a print statement remains in the file
