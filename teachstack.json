@@ -122,7 +122,7 @@
             },
             {
               "test": "test_division",
-              "name": "Calculate the ",
+              "name": "Calculate the diameter of a circle",
               "description": "Calculate the diameter of the circle by dividing the circle_circumference variable by the pi_to_three_places variable."
             }
           ],
