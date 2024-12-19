@@ -18,11 +18,9 @@ Integers and floats can be stored as variables, or can be used literally (i.e. d
 ```python
 an_integer = 5
 a_float = 10.5
-print(an_integer + a_float)
-# Will print 15.5 to console
+print(an_integer + a_float)   # Will print 15.5
 
-print(a_float - 3)
-# Will print 7.5 to console
+print(a_float - 3)            # Will print 7.5
 ```
 
 ### Challenge

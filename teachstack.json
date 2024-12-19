@@ -109,6 +109,29 @@
               "script": "main.py"
             }
           ]
+        },
+        {
+          "name": "Calculations, Part 1",
+          "dir": "Calculations_1",
+          "initialFiles": ["main.py"],
+          "tests": [
+            {
+              "test": "test_multiplication",
+              "name": "Calculate the number of hours in a week",
+              "description": "Calculate the number of hours in a week by multiplying together the hours_in_a_day and days_in_a_week variables."
+            },
+            {
+              "test": "test_division",
+              "name": "Calculate the ",
+              "description": "Calculate the diameter of the circle by dividing the circle_circumference variable by the pi_to_three_places variable."
+            }
+          ],
+          "scripts": [
+            {
+              "language": "python",
+              "script": "main.py"
+            }
+          ]
         }
       ]
     }
