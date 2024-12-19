@@ -1,3 +1,4 @@
+import importlib
 from datetime import datetime
 
 def test_integers():
@@ -25,6 +26,7 @@ def test_print_year(capsys):
     Test that the correct floats have been assigned
     """
     from numbers.exercise import main
+    importlib.reload(main)
 
     captured = capsys.readouterr()
     actual_year = datetime.now().year

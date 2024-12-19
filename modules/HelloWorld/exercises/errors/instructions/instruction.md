@@ -4,7 +4,7 @@ code, pre {
 }
 </style>
 
-## Comments
+## Errors
 
 ### Learning
 Humans are famously prone to errors—just ask anyone who’s ever sent a text message to the wrong person or accidentally added salt to their coffee instead of sugar. Coding is another discipline where we unwittingly make mistakes. Thankfully, Python comes equipped with helpful features to catch and report errors so you can fix them before they cause chaos.

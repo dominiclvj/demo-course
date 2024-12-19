@@ -71,7 +71,7 @@
           "tests": [
             {
               "test": "test_errors",
-              "name": "Debug the code and print the strings to conole",
+              "name": "Debug the code and print the strings to console",
               "description": "Fix the code to stop the NameError and SyntaxError from occuring"
             }
           ],
