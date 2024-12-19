@@ -84,7 +84,7 @@
         },
         {
           "name": "Numbers",
-          "dir": "numbers",
+          "dir": "numbers_1",
           "initialFiles": ["main.py"],
           "tests": [
             {
