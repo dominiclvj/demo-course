@@ -2,7 +2,7 @@ def test_variables(capsys):
     """
     Test that the lesson variable is reassigned twice
     """
-    from ..exercise import main
+    from variables.exercise import main
     captured = capsys.readouterr()
     output_lines = captured.out.splitlines()
 

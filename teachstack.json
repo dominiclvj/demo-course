@@ -12,7 +12,7 @@
       "exercises": [
         {
           "name": "Hello World",
-          "dir": "Hello World",
+          "dir": "hello_world",
           "initialFiles": ["main.py"],
           "tests": [
             {
@@ -30,7 +30,7 @@
         },
         {
           "name": "Comments",
-          "dir": "Comments",
+          "dir": "comments",
           "initialFiles": ["main.py"],
           "tests": [
             {
@@ -48,7 +48,7 @@
         },
         {
           "name": "Variables",
-          "dir": "Variables",
+          "dir": "variables",
           "initialFiles": ["main.py"],
           "tests": [
             {
@@ -66,7 +66,7 @@
         },
         {
           "name": "Errors",
-          "dir": "Errors",
+          "dir": "errors",
           "initialFiles": ["main.py"],
           "tests": [
             {
@@ -84,7 +84,7 @@
         },
         {
           "name": "Numbers",
-          "dir": "Numbers",
+          "dir": "numbers",
           "initialFiles": ["main.py"],
           "tests": [
             {
@@ -112,7 +112,7 @@
         },
         {
           "name": "Calculations, Part 1",
-          "dir": "Calculations_1",
+          "dir": "calculations_1",
           "initialFiles": ["main.py"],
           "tests": [
             {

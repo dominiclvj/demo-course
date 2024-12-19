@@ -5,7 +5,7 @@ def test_errors():
     """
     Test that all errors in the code are resolved and a print statement remains in the file
     """
-    from ..exercise import main
+    from errors.exercise import main
 
     with open(os.path.join(pathlib.Path(__file__).parent, "..","exercise", "main.py"), "r") as file:
         content = file.read()

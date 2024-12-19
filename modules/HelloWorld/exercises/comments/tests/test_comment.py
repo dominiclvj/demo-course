@@ -5,7 +5,7 @@ def test_comment(capsys):
     """
     Tests a print statement is commented out and has not just been deleted
     """
-    from ..exercise import main
+    from comments.exercise import main
     captured = capsys.readouterr()
     assert captured.out == ""
 

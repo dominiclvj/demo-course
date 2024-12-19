@@ -4,7 +4,7 @@ def test_integers():
     """
     Test that the correct integers have been assigned
     """
-    from ..exercise import main
+    from numbers.exercise import main
     
     actual_year = datetime.now().year
     assert actual_year == main.current_year
@@ -15,7 +15,7 @@ def test_floats():
     """
     Test that the correct floats have been assigned
     """
-    from ..exercise import main
+    from numbers.exercise import main
 
     assert main.pi_to_three_places == 3.142
     assert main.chance_of_heads_in_coin_flip == 0.5
@@ -24,8 +24,8 @@ def test_print_year(capsys):
     """
     Test that the correct floats have been assigned
     """
-    from ..exercise import main
+    from numbers.exercise import main
 
-    out, err = capsys.readouterr()
+    captured = capsys.readouterr()
     actual_year = datetime.now().year
-    assert str(actual_year) in out.strip()
+    assert str(actual_year) in captured.out.strip()
