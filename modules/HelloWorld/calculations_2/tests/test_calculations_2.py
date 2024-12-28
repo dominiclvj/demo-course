@@ -1,3 +1,6 @@
+import os
+import pathlib
+
 def test_exponent():
     """
     Tests the correct result was achieved using the exponent operator
