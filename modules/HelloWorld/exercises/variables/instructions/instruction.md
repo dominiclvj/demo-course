@@ -19,7 +19,7 @@ is_happy = True   # True or False (boolean)
 
 Variables names can't contain spaces or symbols, other than an underscore ```_```. They can't begin with a number, but can contain numbers after the first letter (e.g. ```nice_variable_8```).
 
-### Challenge
+### Exercise
 Assigning variables is an important foundational skill for a new computer programmer. In the assign the ```lesson``` variable multiple times as the program runs. By using the ```print()``` function we can write the variable to the console after each reassignment:
 
 - Update the ```lesson``` variable to include subjects for the afternoon and evening classes

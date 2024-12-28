@@ -29,7 +29,7 @@ You can also use comments to stop a section of code from running to experiment w
 calculation_result = new_clean_function()
 ```
 
-### Challenge
+### Exercise
 
 Let's experiment with commenting in Python:
 

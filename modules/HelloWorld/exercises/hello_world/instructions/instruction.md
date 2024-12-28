@@ -13,8 +13,11 @@ Python is a popular, beginner-friendly programming language. One of the first ta
 
 In Python, we use the ```print()``` function to display output from our program. This will appear in the 'Output' column on the right-hand side of the screen. The print function takes text or other information inside the parenthesis and outputs it to the console.
 
-### Challenge
-Here's what you need to do:
+### Exercise
+Here's how you can write your first program with Python:
+
 - To display a simple message saying "Hello World!" you can use the print function as follows: ```print("Hello World!")```. Type this into the main.py file open in the text editor in the middle of the screen.
 
 - Use the 'Run Program' button in the bottom left-hand corner of the screen to run your code. Once you've managed to print "Hello World!" to the console, try changing the double-quotes ```"``` to single-quotes ```'``` and see what happens.
+
+- When you are finished, click the 'Next' button in the bottom right-hand corner of the screen to progress to the next exercise.

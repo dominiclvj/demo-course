@@ -132,6 +132,29 @@
               "script": "main.py"
             }
           ]
+        },
+        {
+          "name": "Calculations, Part 2",
+          "dir": "calculations_2",
+          "initialFiles": ["main.py"],
+          "tests": [
+            {
+              "test": "test_exponent",
+              "name": "Calculate the required number of tiles",
+              "description": "Calculate the number of tiles needed to fully tile the square room and assign it to the tiles_required variable"
+            },
+            {
+              "test": "test_modulo",
+              "name": "Calculate the number of leftover tiles",
+              "description": "Calculate how many tiles will be left over if you buy the minimum number of tile packs required for the room and assign it to the leftover_tiles variable"
+            }
+          ],
+          "scripts": [
+            {
+              "language": "python",
+              "script": "main.py"
+            }
+          ]
         }
       ]
     }

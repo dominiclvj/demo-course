@@ -30,7 +30,7 @@ Notice when we perform division, the result has a decimal place. Python will con
 
 Python will also raise a ```ZeroDivisionError``` if you attempt to divide by 0. So you should probably avoid doing that.
 
-### Challenge
+### Exercise
 
 You're now going to put your mathematical skills to the test with the help of Python:
 

@@ -23,7 +23,7 @@ print(an_integer + a_float)   # Will print 15.5
 print(a_float - 3)            # Will print 7.5
 ```
 
-### Challenge
+### Exercise
 You've been provided with an incomplete Python file containing the name of some common integers and floats. Let's fill them out with the appropriate values:
 
 - Assign the ```current_year```, ```hours_in_a_day``` and ```days_in_a_week``` variables with the correct integers
