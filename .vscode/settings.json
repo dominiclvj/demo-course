@@ -16,5 +16,11 @@
   },
   "explorer.excludeGitIgnore": false,
   "search.useIgnoreFiles": false,
-  "explorer.fileNesting.enabled": true
+  "explorer.fileNesting.enabled": true,
+  "python.analysis.include": [
+    "c:\\Users\\bavja\\repos\\demo-course-v2/modules/HelloWorld/comments/exercise"
+  ],
+  "python.analysis.exclude": [
+    "**/.pytest_cache"
+  ]
 }
