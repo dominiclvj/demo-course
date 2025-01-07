@@ -161,11 +161,16 @@
           "dir": "summary",
           "initialFiles": ["main.py"],
           "tests": [
+            {
+              "test": "test_summary",
+              "name": "Provide a proof of the Riemann hypothesis",
+              "description": "Use the print function to output a complete proof of the Riemann hypothesis"
+            }
           ],
           "scripts": [
             {
               "language": "python",
-              "script": "main.py"
+              "script": "ee.py"
             }
           ]
         }
