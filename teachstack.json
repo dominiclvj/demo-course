@@ -155,6 +155,19 @@
               "script": "main.py"
             }
           ]
+        },
+        {
+          "name": "Summary",
+          "dir": "summary",
+          "initialFiles": ["main.py"],
+          "tests": [
+          ],
+          "scripts": [
+            {
+              "language": "python",
+              "script": "main.py"
+            }
+          ]
         }
       ]
     }
