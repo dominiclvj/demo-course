@@ -11,7 +11,7 @@ Welcome to your first Python coding challenge! You will learn how to write a sim
 
 Python is a popular, beginner-friendly programming language. One of the first tasks every programmer undertakes when learning a new language is writing a Hello World program. This is a simple program that displays the message "Hello World!" on the screen.
 
-In Python, we use the ```print()``` function to display output from our program. This will appear in the 'Output' column on the right-hand side of the screen. The print function takes text or other information inside the parenthesis and outputs it to the console.
+In Python, we use the ```print()``` function to display output from our program. This will appear in the 'Output' window on the right-hand side of the screen. The print function takes text or other information inside the parenthesis and outputs it to the console.
 
 ### Exercise
 Here's how you can write your first program with Python:

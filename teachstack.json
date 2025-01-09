@@ -18,7 +18,7 @@
             {
               "test": "test_hello_world",
               "name": "Print 'Hello World!'",
-              "description": "Use the print() function to output 'Hello World!' to the console"
+              "description": "Use the print() function to dislpay 'Hello World!' in the Output window"
             }
           ],
           "scripts": [
@@ -36,7 +36,7 @@
             {
               "test": "test_comment",
               "name": "Comment out the print statement",
-              "description": "Use a comment to prevent the print() function from writing 'Hello World!' to the console"
+              "description": "Use a comment to prevent the print() function from writing 'Hello World!' to the Output window"
             }
           ],
           "scripts": [
@@ -71,8 +71,8 @@
           "tests": [
             {
               "test": "test_errors",
-              "name": "Debug the code and print the strings to console",
-              "description": "Fix the code to stop the NameError and SyntaxError from occuring"
+              "name": "Debug the code to allow the strings to print to Output",
+              "description": "Fix the code to stop the NameError and SyntaxError from occuring, allowing the text to display in the Output window"
             }
           ],
           "scripts": [
@@ -90,7 +90,7 @@
             {
               "test": "test_integers",
               "name": "Assign the correct integers to the variables",
-              "description": "Assign the current_year, hours_in_a_day and days_in_a_week variables with the appropriate integers."
+              "description": "Assign the current_year, hours_in_a_day and days_in_a_week variables with the correct integers"
             },
             {
               "test": "test_floats",
@@ -100,7 +100,7 @@
             {
               "test": "test_print_year",
               "name": "Print the current_year variable",
-              "description": "Use the print function to output the current year to the console"
+              "description": "Use the print function to print the current year variable to Output"
             }
           ],
           "scripts": [
@@ -118,12 +118,12 @@
             {
               "test": "test_multiplication",
               "name": "Calculate the number of hours in a week",
-              "description": "Calculate the number of hours in a week by multiplying together the hours_in_a_day and days_in_a_week variables."
+              "description": "Calculate the number of hours in a week by multiplying together the hours_in_a_day and days_in_a_week variables"
             },
             {
               "test": "test_division",
               "name": "Calculate the diameter of a circle",
-              "description": "Calculate the diameter of the circle by dividing the circle_circumference variable by the pi_to_three_places variable."
+              "description": "Calculate the diameter of the circle by dividing the circle_circumference variable by the pi_to_three_places variable"
             }
           ],
           "scripts": [
@@ -164,7 +164,7 @@
             {
               "test": "test_summary",
               "name": "Provide a proof of the Riemann hypothesis",
-              "description": "Use the print function to output a complete proof of the Riemann hypothesis"
+              "description": "Use the print function to display a complete proof of the Riemann hypothesis"
             }
           ],
           "scripts": [

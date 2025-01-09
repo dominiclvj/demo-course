@@ -33,4 +33,4 @@ calculation_result = new_clean_function()
 
 Let's experiment with commenting in Python:
 
-- Comment out the print statement to stop "Hello World!" being displayed in the console when the code is run
+- Comment out the print statement to stop "Hello World!" being displayed in the Output window when the code is run
