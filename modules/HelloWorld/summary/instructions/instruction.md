@@ -4,7 +4,7 @@ code, pre {
 }
 </style>
 
-## Summary
+# Summary
 
 Congratulations on making it through this ab initio Python course! We hope these lessons were an enjoyable introduction to some of the fundamentals of programming with Python.
 

@@ -4,9 +4,9 @@ code, pre {
 }
 </style>
 
-## Calculations, Part 1
+# Calculations, Part 1
 
-### Learning
+## Learning
 So far you've learned about variables and how Python treats numbers. Variables are like named boxes for data, and numbers can be either integers (whole numbers) or floats (numbers with decimal points).
 
 But programming isn’t just about storing data—it’s also about working with that data to do useful things. Python lets you use both simple and complex mathematical operations to perform calculations. You should be familiar with addition ```+```, subtraction ```-```, multiplication ```*```, and division ```/```.
@@ -29,8 +29,6 @@ print(quotient)       # Will print 4.0
 Notice when we perform division, the result has a decimal place. Python will convert all integers to floats before it carries out this operation.
 
 Python will also raise a ```ZeroDivisionError``` if you attempt to divide by 0. So you should probably avoid doing that.
-
-### Exercise
 
 You're now going to put your mathematical skills to the test with the help of Python:
 

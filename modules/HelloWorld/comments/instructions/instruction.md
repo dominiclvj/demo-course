@@ -4,9 +4,9 @@ code, pre {
 }
 </style>
 
-## Comments
+# Comments
 
-### Learning
+## Learning
 
 When we write code, we often want to insert text that will be ignored by the computer. This text is called a comment. Python will interpret any text on a line after a ```#``` as a comment.
 
@@ -29,8 +29,6 @@ You can also use comments to stop a section of code from running to experiment w
 calculation_result = new_clean_function()
 ```
 
-### Exercise
-
-Let's experiment with commenting in Python:
+Let's experiment with commenting in Python!
 
 - Comment out the print statement to stop "Hello World!" being displayed in the Output window when the code is run
