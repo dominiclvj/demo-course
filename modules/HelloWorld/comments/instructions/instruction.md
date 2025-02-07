@@ -29,6 +29,6 @@ You can also use comments to stop a section of code from running to experiment w
 calculation_result = new_clean_function()
 ```
 
-Let's experiment with commenting in Python!
+In future lessons, comments will be used to provide guidance for completing exercises.
 
-- Comment out the print statement to stop "Hello World!" being displayed in the Output window when the code is run
+Let's experiment with commenting in Python! Comment out the print statement in the accompanying Python script to prevent the text from displaying in the Output window.

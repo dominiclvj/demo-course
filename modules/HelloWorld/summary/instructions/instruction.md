@@ -14,4 +14,4 @@ Teachstack is a fast, flexible and simple solution to give students an immersive
 
 Please get in touch with any feedback by emailing dominic.jackson@teachstack.io, or using the [contact form](https://teachstack.io/contact) on our website.
 
-If you would like to carry on with this fundamentals course, please solve the exercise on this summary page to continue.
+If you would like to carry on with this fundamentals course, please solve the exercise below to continue.

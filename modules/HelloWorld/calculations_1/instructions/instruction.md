@@ -30,8 +30,4 @@ Notice when we perform division, the result has a decimal place. Python will con
 
 Python will also raise a ```ZeroDivisionError``` if you attempt to divide by 0. So you should probably avoid doing that.
 
-You're now going to put your mathematical skills to the test with the help of Python:
-
-- Calculate the number of hours in a week by multiplying together the ```hours_in_a_day``` and ```days_in_a_week``` variables
-
-- Calculate the diameter of the circle by dividing the ```circle_circumference``` variable by the ```pi_to_three_places``` variable
+You're now going to put your mathematical skills to the test with the help of Python. Multiply together the integers and floats provided in the Python file to calculate values for the ```hours_in_a_week``` and ```circle_diameter``` variables.

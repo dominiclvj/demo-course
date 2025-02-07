@@ -19,7 +19,6 @@ is_happy = True   # True or False (boolean)
 
 Variables names can't contain spaces or symbols, other than an underscore ```_```. They can't begin with a number, but can contain numbers after the first letter (e.g. ```nice_variable_8```).
 
-## Exercise
-Assigning variables is an important foundational skill for a new computer programmer. In the assign the ```lesson``` variable multiple times as the program runs. By using the ```print()``` function we can write the variable to the console after each reassignment:
+Assigning variables is an important foundational skill for a new computer programmer. Let's use the ```lesson``` variable to assign different subjects to the Afternoon class and the Evening class. 
 
-- Update the ```lesson``` variable to include subjects for the afternoon and evening classes
+Using the ```print()``` function we can write the ```lesson``` variable to the Output after each reassignment to see the subject change. As Python will execute the script sequentially (from top to bottom), we will see the subject for the Morning class print first, and the Evening class print last.
